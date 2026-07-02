@@ -78,6 +78,3 @@ This project pins to a very old LlamaIndex API (`GPTSimpleVectorIndex`, `GPTList
 - [python-dotenv](https://pypi.org/project/python-dotenv/) — environment variable loading
 - OpenAI API — underlying LLM for search and summarization
 
-## License
-
-Add a license of your choice (e.g. MIT) here.
